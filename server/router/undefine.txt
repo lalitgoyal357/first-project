@@ -1,0 +1,8 @@
+{
+    "name":"ram",
+    "email":"ram@gmail.com",
+    "phone": 945757488,
+    "work":"devops",
+    "password":"thapa",
+    "cpassword":"thapa"
+}
